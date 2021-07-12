@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/dogs-react/static/css/main.4dd68d1a.chunk.css",
+    "main.js": "/dogs-react/static/js/main.b769ddf7.chunk.js",
+    "main.js.map": "/dogs-react/static/js/main.b769ddf7.chunk.js.map",
+    "runtime-main.js": "/dogs-react/static/js/runtime-main.e4b7a3a4.js",
+    "runtime-main.js.map": "/dogs-react/static/js/runtime-main.e4b7a3a4.js.map",
+    "static/js/2.6d1488f1.chunk.js": "/dogs-react/static/js/2.6d1488f1.chunk.js",
+    "static/js/2.6d1488f1.chunk.js.map": "/dogs-react/static/js/2.6d1488f1.chunk.js.map",
+    "static/js/3.43a55553.chunk.js": "/dogs-react/static/js/3.43a55553.chunk.js",
+    "static/js/3.43a55553.chunk.js.map": "/dogs-react/static/js/3.43a55553.chunk.js.map",
+    "static/css/4.bee358b8.chunk.css": "/dogs-react/static/css/4.bee358b8.chunk.css",
+    "static/js/4.98c8a98d.chunk.js": "/dogs-react/static/js/4.98c8a98d.chunk.js",
+    "static/js/4.98c8a98d.chunk.js.map": "/dogs-react/static/js/4.98c8a98d.chunk.js.map",
+    "index.html": "/dogs-react/index.html",
+    "precache-manifest.71118a5786a6aabeef75d45be5295346.js": "/dogs-react/precache-manifest.71118a5786a6aabeef75d45be5295346.js",
+    "service-worker.js": "/dogs-react/service-worker.js",
+    "static/css/4.bee358b8.chunk.css.map": "/dogs-react/static/css/4.bee358b8.chunk.css.map",
+    "static/css/main.4dd68d1a.chunk.css.map": "/dogs-react/static/css/main.4dd68d1a.chunk.css.map",
+    "static/js/3.43a55553.chunk.js.LICENSE.txt": "/dogs-react/static/js/3.43a55553.chunk.js.LICENSE.txt",
+    "static/media/adicionar.4a6d6ceb.svg": "/dogs-react/static/media/adicionar.4a6d6ceb.svg",
+    "static/media/dogs-footer.8cc31290.svg": "/dogs-react/static/media/dogs-footer.8cc31290.svg",
+    "static/media/dogs.849a6443.svg": "/dogs-react/static/media/dogs.849a6443.svg",
+    "static/media/enviar.9f80ad3d.svg": "/dogs-react/static/media/enviar.9f80ad3d.svg",
+    "static/media/estatisticas.5b48807f.svg": "/dogs-react/static/media/estatisticas.5b48807f.svg",
+    "static/media/feed.35f798d0.svg": "/dogs-react/static/media/feed.35f798d0.svg",
+    "static/media/Login.module.css": "/dogs-react/static/media/login.824d7d85.jpg",
+    "static/media/sair.4175ea72.svg": "/dogs-react/static/media/sair.4175ea72.svg",
+    "static/media/Header.module.css": "/dogs-react/static/media/usuario.dc442992.svg",
+    "static/media/PhotoContent.module.css": "/dogs-react/static/media/visualizacao-black.957befc3.svg",
+    "static/media/FeedPhotosItem.module.css": "/dogs-react/static/media/visualizacao.4ce15ed8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4b7a3a4.js",
+    "static/js/3.43a55553.chunk.js",
+    "static/css/main.4dd68d1a.chunk.css",
+    "static/js/main.b769ddf7.chunk.js"
+  ]
+}
